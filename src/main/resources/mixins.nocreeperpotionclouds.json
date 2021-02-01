@@ -1,0 +1,10 @@
+{
+  "package": "mod.nocreeperpotionclouds.mixins",
+  "refmap": "mixins.nocreeperpotionclouds.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.6",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinEntityCreeper"
+  ]
+}
